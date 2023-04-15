@@ -2,3 +2,5 @@ node_modules
 .vscode
 .DS_store
 .env
+package-lock.json
+yarn.lock
